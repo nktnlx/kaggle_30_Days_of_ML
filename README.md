@@ -8,3 +8,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 2** -- Syntax, Variables, and Numbers
 * **Day 3** -- Functions and Getting Help
 * **Day 4** -- Booleans and Conditionals
+* **Day 5.1** -- Lists
