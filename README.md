@@ -9,3 +9,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 3** -- Functions and Getting Help
 * **Day 4** -- Booleans and Conditionals
 * **Day 5.1** -- Lists
+* **Day 5.2** -- Loops and List Comprehensions
