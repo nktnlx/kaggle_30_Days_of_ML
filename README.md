@@ -4,7 +4,7 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 
 
 **Contents list**
-* **Day 1** -- Getting started with Kaggle; first submit to Titanic
+* **Day 1** -- Getting started with Kaggle; first submission to Titanic
 * **Day 2** -- Syntax, Variables, and Numbers
 * **Day 3** -- Functions and Getting Help
 * **Day 4** -- Booleans and Conditionals
@@ -17,3 +17,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 9.2** -- Model Validation (mean_absolute_error)
 * **Day 10.1** -- Underfitting and Overfitting (max_leaf_nodes)
 * **Day 10.2** -- Random Forests (RandomForestRegressor)
+* **Day 11** -- Machine Learning Competitions (submission to Housing Prices Competition)
