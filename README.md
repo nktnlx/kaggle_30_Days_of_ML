@@ -15,3 +15,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 8** -- Explore Your Data
 * **Day 9.1** -- Your First Machine Learning Model (DecisionTreeRegressor)
 * **Day 9.2** -- Model Validation (mean_absolute_error)
+* **Day 10.1** -- Underfitting and Overfitting (max_leaf_nodes)
