@@ -13,3 +13,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 6** -- Strings and Dictionaries
 * **Day 7** -- Working with External Libraries
 * **Day 8** -- Explore Your Data
+* **Day 9.1** -- Your First Machine Learning Model (DecisionTreeRegressor)
