@@ -18,3 +18,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 10.1** -- Underfitting and Overfitting (max_leaf_nodes)
 * **Day 10.2** -- Random Forests (RandomForestRegressor)
 * **Day 11** -- Machine Learning Competitions (submission to Housing Prices Competition)
+* **Day 12.1**-- Introduction to the Intermediate Machine Learning course
