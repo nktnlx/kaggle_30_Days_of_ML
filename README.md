@@ -20,3 +20,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 11** -- Machine Learning Competitions (submission to Housing Prices Competition)
 * **Day 12.1** -- Introduction to the Intermediate Machine Learning course
 * **Day 12.2** -- Missing Values
+* **Day 12.3** -- Categorical Variables
