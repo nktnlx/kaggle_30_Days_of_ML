@@ -21,3 +21,4 @@ Kaggle's 30 Days of ML learning challenge [Aug 2021]
 * **Day 12.1** -- Introduction to the Intermediate Machine Learning course
 * **Day 12.2** -- Missing Values
 * **Day 12.3** -- Categorical Variables
+* **Day 13.1** -- Pipelines
